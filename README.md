@@ -158,7 +158,7 @@ Confira também meus outros projetos e experimentos de desenvolvimento:
 ## 📚 Atualmente
 
 - 💻 Aprimorando meus conhecimentos em desenvolvimento de software.
-- 🌐 Desenvolvendo aplicações Web com PHP e Laravel.
+- 🌐 Desenvolvendo aplicações Web com PHP-Laravel. Python, JavaScript e React
 - 📱 Explorando o desenvolvimento Mobile com React Native e Expo.
 - 🗄️ Trabalhando com bancos de dados e persistência de informações.
 - ☁️ Explorando infraestrutura em nuvem e hospedagem de aplicações.
