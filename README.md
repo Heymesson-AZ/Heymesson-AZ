@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Eu sou um estudante de Desenvolvimento de Software 👋
 
-<!--
-**Heymesson-AZ/Heymesson-AZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de tecnologia, apaixonado por programação e inovação.
 
-Here are some ideas to get you started:
+🚀 Atualmente, estou desenvolvendo meus conhecimentos em desenvolvimento de software, explorando novas tecnologias e criando projetos para aprimorar minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📚 Acredito no aprendizado contínuo, na prática e na evolução constante.
+
+### 🎯 Objetivos
+- Desenvolver projetos práticos e relevantes.
+- Aprimorar minhas habilidades em programação.
+- Explorar novas tecnologias e ferramentas.
+- Construir uma carreira sólida na área de tecnologia.
+
+### 🤝 Vamos nos conectar!
+Estou aberto a aprender, compartilhar conhecimentos e colaborar em projetos.
+
+**Transformando conhecimento em código, um projeto de cada vez!** 🚀
 -->
