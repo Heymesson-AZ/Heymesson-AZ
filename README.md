@@ -1,19 +1,19 @@
 # 👋 Olá! Eu sou Heymesson Azevêdo
 
-### 💻 Estudante de Tecnologia | Desenvolvimento de Software
+### 💻 Estudante de Tecnologia | Desenvolvedor de Software
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Área-Desenvolvimento%20de%20Software-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desenvolvimento-Web%20%26%20Mobile-blue?style=for-the-badge" />
 </p>
 
 Sou estudante de tecnologia, apaixonado por programação, desenvolvimento de software e inovação.
 
-Estou constantemente buscando aprimorar minhas habilidades, explorar novas tecnologias e desenvolver soluções que transformem ideias em projetos reais.
+Tenho interesse no desenvolvimento de aplicações Web e Mobile, utilizando diferentes linguagens, frameworks e ferramentas para criar soluções funcionais e eficientes.
 
-Tenho interesse no desenvolvimento Web e Mobile, trabalhando com diferentes linguagens, frameworks e ferramentas.
+Busco constantemente aprimorar minhas habilidades por meio de estudos, projetos práticos e novos desafios, transformando conhecimentos em aplicações reais.
 
-🚀 Acredito que a evolução acontece através da prática, da dedicação e do aprendizado contínuo.
+🚀 Acredito que a evolução acontece através da prática, dedicação e aprendizado contínuo.
 
 ---
 
@@ -41,6 +41,15 @@ Tenho interesse no desenvolvimento Web e Mobile, trabalhando com diferentes ling
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+### 📱 Desenvolvimento Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/AsyncStorage-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### 🗄️ Banco de Dados
@@ -49,7 +58,13 @@ Tenho interesse no desenvolvimento Web e Mobile, trabalhando com diferentes ling
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 📋 Metodologias Ágeis
+### ☁️ Cloud e Infraestrutura
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+### 📋 Metodologias
 
 <p>
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
@@ -59,21 +74,75 @@ Tenho interesse no desenvolvimento Web e Mobile, trabalhando com diferentes ling
 
 ## 🚀 Projetos em Destaque
 
-Alguns projetos disponíveis no meu GitHub:
+### 📚 Sistema Web de Livros
 
-📚 **Sistema Web de Livros**  
-Projeto de aplicação web.
-[Visualizar repositório](https://github.com/Heymesson-AZ/Sistema-Web-de-Livros)
+Sistema web desenvolvido para gerenciamento de livros, utilizando Laravel, Blade e JavaScript.
 
-⚙️ **Sistema-SG3S**  
-Sistema de gerenciamento desenvolvido como Projeto Integrador.
-[Visualizar repositório](https://github.com/Heymesson-AZ/Sistema-SG3S)
+**Tecnologias:**
+- PHP
+- Laravel
+- Blade
+- JavaScript
+- Oracle Cloud Infrastructure (OCI)
 
-🎮 **Labirinto do Tesouro**  
-Jogo interativo desenvolvido em JavaScript, envolvendo lógica e resolução de desafios.
-[Visualizar repositório](https://github.com/Heymesson-AZ/Labirinto-do-Tesouro)
+**Destaques:**
+- Desenvolvimento de aplicação Web com Laravel.
+- Construção de interfaces utilizando Blade.
+- Hospedagem na Oracle Cloud Infrastructure, utilizando recursos da camada gratuita (Free Tier).
 
-[![Meus Repositórios](https://img.shields.io/badge/Visualizar-Todos%20os%20Repositórios-181717?style=for-the-badge&logo=github)](https://github.com/Heymesson-AZ?tab=repositories)
+🔗 [Visualizar repositório](https://github.com/Heymesson-AZ/Sistema-Web-de-Livros)
+
+---
+
+### 🛒 App Lista de Compras
+
+Aplicativo mobile desenvolvido para facilitar a organização e o gerenciamento de listas de compras.
+
+**Tecnologias:**
+- React Native
+- Expo
+- JavaScript
+- AsyncStorage
+
+**Destaques:**
+- Desenvolvimento de aplicação mobile.
+- Gerenciamento de itens de compras.
+- Armazenamento local utilizando AsyncStorage.
+- Persistência de dados entre sessões do aplicativo.
+
+🔗 [Explorar meus repositórios](https://github.com/Heymesson-AZ?tab=repositories)
+
+---
+
+### 🏢 SG3S — Sistema de Gerenciamento
+
+Sistema web de gerenciamento comercial desenvolvido individualmente, do zero, como **Projeto Integrador (PI)** do curso técnico em Análise e Desenvolvimento de Sistemas.
+
+**Tecnologias:**
+- PHP
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- MySQL
+
+**Destaques:**
+- Arquitetura MVC (Model-View-Controller).
+- Desenvolvimento individual, desde a concepção até a implementação.
+- Gerenciamento de tecidos, usuários, fornecedores e clientes.
+- Módulos de vendas e relatórios.
+- Operações CRUD nos módulos de gerenciamento.
+- Interface estilizada com Bootstrap.
+
+🔗 [Visualizar repositório](https://github.com/Heymesson-AZ/Sistema-SG3S)
+
+---
+
+### 📂 Outros Projetos
+
+Confira também meus outros projetos e experimentos de desenvolvimento:
+
+[![GitHub Repositories](https://img.shields.io/badge/Explorar-Todos%20os%20Repositórios-181717?style=for-the-badge&logo=github)](https://github.com/Heymesson-AZ?tab=repositories)
 
 ---
 
@@ -88,27 +157,28 @@ Jogo interativo desenvolvido em JavaScript, envolvendo lógica e resolução de 
 
 ## 📚 Atualmente
 
-- 📖 Aprimorando meus conhecimentos em desenvolvimento de software.
-- 💡 Desenvolvendo projetos práticos para fortalecer minhas habilidades.
-- 🌐 Explorando tecnologias para desenvolvimento Web e Mobile.
-- 🧠 Aprimorando minha lógica de programação e capacidade de resolução de problemas.
-- 🚀 Buscando novos desafios e oportunidades profissionais.
+- 💻 Aprimorando meus conhecimentos em desenvolvimento de software.
+- 🌐 Desenvolvendo aplicações Web com PHP e Laravel.
+- 📱 Explorando o desenvolvimento Mobile com React Native e Expo.
+- 🗄️ Trabalhando com bancos de dados e persistência de informações.
+- ☁️ Explorando infraestrutura em nuvem e hospedagem de aplicações.
+- 🚀 Desenvolvendo projetos práticos para fortalecer minhas habilidades.
 
 ---
 
 ## 💼 Aberto a Oportunidades | Open to Work
 
-Estou aberto a novas oportunidades profissionais, especialmente:
+Estou aberto a novas oportunidades profissionais, especialmente nas áreas de:
 
 - 💻 Estágio em Desenvolvimento de Software.
-- 🚀 Desenvolvedor Júnior.
-- 🌐 Desenvolvimento Web.
-- 📱 Desenvolvimento Mobile.
+- 🚀 Desenvolvedor Web Júnior.
+- 📱 Desenvolvedor Mobile Júnior.
+- 🌐 Desenvolvimento Full Stack.
 - 🤝 Projetos colaborativos e experiências profissionais.
 
 Tenho disposição para aprender, trabalhar em equipe, compartilhar conhecimentos e contribuir para o desenvolvimento de soluções inovadoras.
 
-**Acredito que cada oportunidade é uma chance de evoluir e gerar valor através da tecnologia.**
+**Meu objetivo é transformar conhecimento em soluções reais, evoluindo profissionalmente e contribuindo com projetos que gerem valor.**
 
 ---
 
@@ -122,6 +192,8 @@ Tenho disposição para aprender, trabalhar em equipe, compartilhar conhecimento
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
 
 <p align="center">
   ⭐ Obrigado por visitar meu perfil!
