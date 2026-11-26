@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:301B70,100:00D4FF&height=200&section=header&text=Heymesson%20Azevêdo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20%7C%20Web%20%26%20Mobile&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="./banner.jpg" alt="Banner Heymesson Azevêdo" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+GitHub!;Estudante+de+Tecnologia+%F0%9F%92%BB;Desenvolvimento+Web+%26+Mobile+%F0%9F%9A%80;Transformando+ideias+em+c%C3%B3digo!" alt="Typing SVG" />
 
